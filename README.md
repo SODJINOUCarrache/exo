@@ -1,16 +1,31 @@
-# exo
+#  Flutter Widgets Explorer
 
-A new Flutter project.
+> Une mini application Flutter conçue pour explorer et pratiquer les widgets de base.
 
-## Getting Started
+##  Objectif
 
-This project is a starting point for a Flutter application.
+Cette application est un projet d'apprentissage personnel dans le cadre de ma formation Flutter. Elle me permet de comprendre et de manipuler les widgets fondamentaux de Flutter dans un contexte multi-pages.
 
-A few resources to get you started if this is your first Flutter project:
+##  Fonctionnalités principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **AppBar personnalisée**
+- **Drawer (menu latéral)**
+- **Bottom Navigation Bar** avec 3 pages
+- **Navigation entre pages**
+- Utilisation de widgets Flutter :
+  - `Column`, `Row`, `Container`
+  - `ElevatedButton`, `TextButton`, `IconButton`
+  - `Stepper` pour illustrer des étapes
+- Interface responsive et intuitive
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Aperçu des pages
+
+- **Page 1** : Présentation des boutons et interactions
+- **Page 2** : Disposition avec `Row` et `Column`
+- **Page 3** : Exemple d'utilisation du `Stepper`
+
+##  Lancer le projet
+
+```bash
+flutter pub get
+flutter run
