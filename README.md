@@ -28,4 +28,4 @@ Cette application est un projet d'apprentissage personnel dans le cadre de ma fo
 
 ```bash
 flutter pub get
-flutter run
+flutter run# exo_flutter1
