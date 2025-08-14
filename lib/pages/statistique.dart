@@ -29,19 +29,19 @@ class _MyStatistiqueState extends State<MyStatistique> {
     Step(
       title: Text("Niveau1"),
       content: Text(
-        "Debeloppement web niveau debuttan explorer le monde du developpement web",
+        "Debeloppement mobile niveau debuttan explorer le monde du developpement web",
       ),
     ),
     Step(
       title: Text("Niveau2"),
       content: Text(
-        "Developpement web niveau intermediaire Approfondir vos connaissance dans le monde de web",
+        "Developpement mobile niveau intermediaire Approfondir vos connaissance dans le monde de web",
       ),
     ),
     Step(
       title: Text("Niveau"),
       content: Text(
-        "Developpement web niveau avancée Apprener les notions avnacer dans le monde de web",
+        "Developpement mobile niveau avancée Apprener les notions avnacer dans le monde de web",
       ),
     ),
   ];
